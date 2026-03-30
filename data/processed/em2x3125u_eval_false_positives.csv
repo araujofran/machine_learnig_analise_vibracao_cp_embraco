@@ -1,0 +1,5 @@
+operating_state,windows,false_positive_rate,mean_normality_score
+steady_state,255,0.050980392156862744,0.05456606820049018
+idle,134,0.0,-0.20366642240588093
+shutdown,30,0.0,-0.20377569273414042
+startup,30,0.0,-0.22874274089834076

@@ -1,0 +1,22 @@
+field,value
+modelo,EM2X3125U
+engineering_code,513304100
+tipo,Hermetic Reciprocating
+tecnologia,ON/OFF
+motor_type,RSCR
+refrigerante,R-290
+aplicacao,L/MBP
+voltagem_frequencia,220-240 V 50-60 Hz
+dispositivo_partida,PTC
+corrente_plena_carga_60hz_lmbp_a,0.7
+corrente_rotor_bloqueado_60hz_a,7.5
+deslocamento_cm3,6.09
+carga_oleo_ml,180
+oleo,ESTER
+viscosidade_oleo,ISO22
+rated_capacity_w,321
+rated_efficiency_w_w,1.77
+rated_power_w,182
+rated_current_a,0.9
+rpm_ref_1,3000
+rpm_ref_2,3600 
